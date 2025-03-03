@@ -1,0 +1,18 @@
+# Phase 2 - Parser
+### March 8, 2024
+Everything inside of the 'node' and 'exceptions' directories was a part of our work for this phase. Also we filled out
+JottParser.java as the culmination of all of our other work.
+
+# Phase 1 - Tokenizer
+### February 9, 2024
+We only wrote code in the JottTokenizer.java file during this phase, so that is the only file being submitted
+alongside this README.
+
+# Original File Contents
+### January 18, 2024
+This file contains provided code, testers, and test cases.
+
+provided should be a top level package in your src directory
+JottParserTester and JottTokenizerTester classes should be in a package call testers.
+
+the testCases directories should be in the working directory of your project. 
